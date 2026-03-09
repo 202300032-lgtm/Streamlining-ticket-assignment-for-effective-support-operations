@@ -1,1 +1,3 @@
 # Streamlining-ticket-assignment-for-effective-support-operations
+
+This project focuses on improving the efficiency of support operations by automating and optimizing the ticket assignment process. In many organizations, support teams receive a large number of service requests or incident tickets. Manually assigning these tickets can lead to delays, misallocation, and reduced productivity.The proposed system helps streamline the ticket assignment process by automatically routing tickets to the appropriate support agents based on predefined rules, categories, and priorities. This improves response time, reduces manual effort, and ensures that issues are handled by the most suitable team member.
